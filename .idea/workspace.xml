@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae2309ae-be13-4348-ae32-60a73f4ab511" name="Changes" comment="">
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/bot_etagi/pythonProject1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/bot_etagi/pythonProject1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/bot_etagi/pythonProject1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/bot_etagi/pythonProject1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/bot_etagi/pythonProject1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/bot_etagi/pythonProject1/.idea/pythonProject1.iml" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/bot_etagi/pythonProject1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/bot_etagi/pythonProject1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/bot_etagi/pythonProject1/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="ae2309ae-be13-4348-ae32-60a73f4ab511" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,13 +35,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/ws-tmn-ipoteka-42/AppData/Local/JetBrains/PyCharm Community Edition 2024.1.1/jbr/bin/bot_etagi/pythonProject1",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
       </set>
     </attachedChunks>
   </component>
